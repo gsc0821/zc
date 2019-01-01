@@ -1,0 +1,27 @@
+{
+    "name": "zc",
+    "version": "1.0.0",
+    "description": "zc",
+    "main": "gulpfile.js",
+    "scripts": {
+        "dev": "gulp dev",
+        "build": "gulp build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gsc0821/zc.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/gsc0821/zc/issues"
+    },
+    "homepage": "https://github.com/gsc0821/zc#readme",
+    "dependencies": {
+        "build": "^0.1.4",
+        "gulp": "^4.0.0",
+        "gulp-babel": "^7.0.0",
+        "gulp-webserver": "^0.9.1"
+    }
+}
